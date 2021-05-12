@@ -1,0 +1,25 @@
+h1 {
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(23, 55, 112);
+}
+h2{
+font-size: 22px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(56, 16, 24);
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkgreen;
+    font-size: small;
+}
+p {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkblue;
+    text-transform: none;
+    text-align: justify;
+}
+blockquote{
+    color: darkred;
+}
