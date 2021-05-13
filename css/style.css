@@ -4,18 +4,21 @@ h1 {
     color: rgb(31, 31, 31);
     text-align: center;
 }
-h2{
-font-size: 24px;
-font-family: Arial, Helvetica, sans-serif;
-color: rgb(41, 41, 41);
-text-align: center;
+
+h2 {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(41, 41, 41);
+    text-align: center;
 }
-h3{
+
+h3 {
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(41, 41, 41);
     font-size: 20px;
     text-align: center;
 }
+
 p {
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
@@ -23,17 +26,39 @@ p {
     text-transform: none;
     text-align: justify;
 }
-blockquote{
+
+blockquote {
     color: rgb(16, 0, 59);
     font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
-figure{
+
+figure {
     text-align: center;
 }
-.li-class{
+
+.li-class {
     font-size: 22px;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(68, 62, 75);
+}
+
+.topbutton {
+    width: 100px;
+    border: 4px solid rgb(0, 247, 33);
+    background: #030303;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    font-family: verdana;
+    font-size: 12px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
 }
