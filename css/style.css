@@ -23,6 +23,6 @@ p {
 blockquote{
     color: darkred;
 }
-image{
-    
+figure{
+    text-align: center;
 }
