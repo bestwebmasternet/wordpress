@@ -32,3 +32,8 @@ blockquote{
 figure{
     text-align: center;
 }
+.li-class{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(68, 62, 75);
+}
