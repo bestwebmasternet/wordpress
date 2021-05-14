@@ -25,7 +25,8 @@ p {
     color: rgb(0, 0, 0);
     text-transform: none;
     text-align: justify;
-}
+    padding: 0% 3% 0% 3%;
+} 
 
 blockquote {
     color: rgb(16, 0, 59);
@@ -36,6 +37,21 @@ blockquote {
 
 figure {
     text-align: center;
+}
+
+table {
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+td
+{
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center; 
 }
 
 .li-class {
